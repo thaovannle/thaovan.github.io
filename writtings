@@ -33,8 +33,14 @@ Back end: SQL (lyft trip data): https://www.codecademy.com/paths/create-a-back-e
 
 Khan academy
 Natural stimulation (paint splatter): https://www.khanacademy.org/computer-programming/spin-off-of-project-paint-splatter/5136486714621952 
+(about natural stimulation course in general)
+- the course has been challenging but i have learned alot from it. it shows randomness could be used in a lot of things, in particularly this course we mainly use randomness to draw. in nature, things are random, hence the name, but everything has a limit to it. Like how some types of plants only grow in this specific soil/land, like how our hair knows where to stop growing and not overgrown to our ears. So we learn about gaussian random, map, to create a pattern for randomness. 
+
+- for this project, i used gaussian random to splash the paint, so most of the paint is at the middle of canvas. to make this prettier, i make random color to the paint,so each time a paint dot is placed it is a different color, making the canvas very colorful. throught this module, i have a chance to practice coding using Gaussian random. 
+
 
 Natural stimulation(mountain range): https://www.khanacademy.org/computer-programming/spin-off-of-project-mountain-range/6702793742401536 
+- this module i got to work with map 
 
 
 Natural stimulation (wall ball): https://www.khanacademy.org/computer-programming/spin-off-of-challenge-wall-balls/4733789171662848 
