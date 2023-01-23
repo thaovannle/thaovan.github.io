@@ -1,0 +1,59 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+   background-image: url('https://i.pinimg.com/originals/da/e4/c7/dae4c748be47dfadbc532bb7bb28ed8f.jpg');
+  
+  
+}
+
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+ th, td {
+  border-style:solid;
+  border-color: #6B9E5F;
+}
+
+ a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+nav a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+nav a:active {
+  color: red
+    ;
+  background-color: transparent;
+  text-decoration: underline;
+}
